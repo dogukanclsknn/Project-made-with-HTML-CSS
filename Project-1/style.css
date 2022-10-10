@@ -1,0 +1,103 @@
+.container{
+    position: absolute;
+    width: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 100px;
+    display: flex;
+    height: 600px;
+}
+.firstRow{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.first{
+    border: 1px solid black;
+    width: 40%;
+    height: 200px;
+    margin: 25px;
+    padding: 12px;
+    border-radius: 30px;
+    background-color: #e2e2e2;
+    border-color: white;
+}
+.second{
+    border: 1px solid black;
+    width: 40%;
+    height: 200px;
+    margin: 25px;
+    padding: 12px;
+    border-radius: 30px;
+    background-color: #e2e2e2;
+    border-color: white;
+}
+.third{
+    border: 1px solid black;
+    width: 40%;
+    height: 200px;
+    margin: 25px;
+    padding: 12px;
+    border-radius: 30px;
+    background-color: #e2e2e2;
+    border-color: white;
+}
+.fourth{
+    border: 1px solid black;
+    width: 40%;
+    height: 200px;
+    margin: 25px;
+    padding: 12px;
+    border-radius: 30px;
+    background-color: #e2e2e2;
+    border-color: white;
+}
+.first-span{
+   margin-left: 115px;
+   font-size: 50px;
+   color: orchid;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.first-h1{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.first-p{
+    text-align: center;
+    color: grey;
+}
+.first-a{
+    margin-left: 140px;
+}
+.element{
+    display: block;
+    text-align: center;
+}
+.secondRow{
+    width: 40%;
+}
+.fifth{
+    margin: 430px 150px 0 0;
+    margin-left: 50px;
+}
+.more-button{
+    background-color: orchid;
+    color: white;
+    border-radius: 15px;
+    font-size: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: 1px solid orchid;
+    margin-left: 5px;
+    letter-spacing: 2px;
+}
+.second-p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
